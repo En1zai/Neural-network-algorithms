@@ -5,7 +5,7 @@ def max_pooling(array, window_size=2, stride=2):
     """
     Параметры:
     input_data - передаваемый 2D-массив
-    window_size - размер окна (х2)
+    window_size - размер окна (2х2)
     stride - размер шага окна (2)
     """
 
