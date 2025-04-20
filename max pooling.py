@@ -38,5 +38,5 @@ image_pixel = np.array([
 
 #Вывод результата алгоритма
 output_image = max_pooling(image_pixel)
-print("До Max Pooling:\n", image_pixel)
-print("После Max Pooling:\n", output_image)
+print("Изначальные данные:\n", image_pixel)
+print("Результат работы:\n", output_image)
